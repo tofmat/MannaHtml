@@ -1,45 +1,4 @@
-/*--------------------------------------------------------------
->>> TABLE OF CONTENTS:
-----------------------------------------------------------------
-# Common
-# Animations
-# Topbar
-# Main Menu
-# Banner
-# Brand
-# Footer
-# Services
-# About
-# Team
-# Progress
-# Portfolio
-# Funfact
-# Testimonials
-# Call to action
-# Blog
-# Sidemenu
-# Contact
-	## Contact Two
-# Pricing
-# Case
-# Video
-# FAQ
-# Social Counter
-# Page Header
-# Step
-# Sidebar
---------------------------------------------------------------*/
 
-
-/*--------------------------------------------------------------
-# Common
---------------------------------------------------------------*/
-
-/*font-family: 'Open Sans', sans-serif;
-font-family: 'Gilroy-Light';
-font-family: 'Gilroy-SemiBold';
-font-family: 'Gilroy-Bold';
-font-family: 'Gilroy-ExtraBold';*/
 
 :root {
 	--thm-font: 'Open Sans', sans-serif;
@@ -64,6 +23,10 @@ body {
 	color: #5f5f5f;
 	font-size: 14px;
 	line-height: 32px;
+}
+
+.miBanner{
+	/* padding-top: 250px !important; */
 }
 
 a:active,

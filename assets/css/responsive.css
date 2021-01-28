@@ -243,7 +243,7 @@
     }
 
     .site-header-five__wrapper .side-menu__toggler span {
-        border-color: #fff;
+        border-color: #000;
     }
 
     .site-header-five__wrapper .side-menu__toggler span::before {
