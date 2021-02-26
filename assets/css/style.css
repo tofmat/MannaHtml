@@ -111,6 +111,10 @@ h6 {
 	padding-top: 30px;
 }
 
+.pad-30-bottom {
+	padding-bottom: 30px;
+}
+
 .pad-10-top {
 	padding-top: 10px;
 }
@@ -3327,8 +3331,8 @@ h6 {
 /* Service Six */
 
 .service-six {
-	padding-top: 130px;
-	padding-bottom: 120px;
+	padding-top: 30px;
+	padding-bottom: 100px;
 }
 
 .service-six__carousel .owl-stage-outer {
@@ -8428,7 +8432,7 @@ h6 {
 	background-image: url(../images/backgrounds/pricing-bg-1-1.png);
 	background-position: bottom center;
 	background-repeat: no-repeat;
-	padding-top: 130px;
+	padding-top: 60px;
 	padding-bottom: 100px;
 }
 
