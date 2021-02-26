@@ -151,8 +151,12 @@
     }
 
     .banner-two__content h3 {
-        font-size: 76px;
+        /* font-size: 76px; */
         line-height: 1.1em;
+    }
+
+    .mobile-mar-up {
+        margin-top: 40px;
     }
 
     .banner-two__content p {
@@ -672,7 +676,7 @@
     }
 
     .block-title h3 {
-        font-size: 50px;
+        font-size: 40px;
     }
 
     .site-footer-one__upper-moc,
@@ -1188,7 +1192,7 @@
     .testimonials-three__block h3,
     .cta-five h3,
     .cta-eight__content h3 {
-        font-size: 45px;
+        font-size: 35px;
         line-height: 1.2em;
     }
 

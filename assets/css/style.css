@@ -257,8 +257,8 @@ h6 {
 
 .block-title-two h3 {
 	margin: 0;
-	font-size: 50px;
-	line-height: 55px;
+	font-size: 40px;
+	/* line-height: 55px; */
 	font-family: var(--special-font-bold);
 	letter-spacing: -.03em;
 	color: var(--thm-black);
@@ -271,7 +271,7 @@ h6 {
 
 .block-title-two__home-five h3 {
 	color: #42495b;
-	font-size: 55px;
+	font-size: 50px;
 }
 
 .bootstrap-select .btn-light:not(:disabled):not(.disabled).active,
@@ -3109,8 +3109,8 @@ h6 {
 /* service four */
 
 .service-four {
-	padding-top: 130px;
-	padding-bottom: 180px;
+	padding-top: 90px;
+	padding-bottom: 100px;
 }
 
 .service-four__single {
@@ -3972,7 +3972,7 @@ h6 {
 
 .about-four {
 	background-color: #f8f9fe;
-	padding-top: 130px;
+	padding-top: 100px;
 	padding-bottom: 130px;
 }
 
@@ -8979,7 +8979,7 @@ h6 {
 --------------------------------------------------------------*/
 
 .faq-one {
-	padding-bottom: 130px;
+	padding-bottom: 60px;
 }
 
 .faq-one .cta-three__image {
