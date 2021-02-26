@@ -35,6 +35,9 @@
 	display: flex;
 	align-items: center;
 }
+.align-items-center{
+	align-items: center;
+}
 .pad-right{
 	margin-right: 10px;
 }
@@ -106,6 +109,10 @@ h6 {
 
 .pad-30-top {
 	padding-top: 30px;
+}
+
+.pad-10-top {
+	padding-top: 10px;
 }
 
 .mag-top{
@@ -3033,7 +3040,7 @@ h6 {
 
 .service-three {
 	padding-top: 130px;
-	padding-bottom: 100px;
+	padding-bottom: 30px;
 }
 
 .service-three__single {
@@ -3859,7 +3866,7 @@ h6 {
 
 
 .about-three {
-	padding-bottom: 130px;
+	padding-bottom: 80px;
 }
 
 @media(min-width: 992px) {
@@ -6421,7 +6428,7 @@ h6 {
 
 .cta-eight {
 	text-align: center;
-	padding-top: 90px;
+	padding-top: 70px;
 }
 
 .cta-eight__content {
